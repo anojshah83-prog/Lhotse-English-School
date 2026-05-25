@@ -1,0 +1,6 @@
+{
+  "name": "Lhotse English School Portal",
+  "description": "Interactive school management system with Student, Teacher, Parent, and Admin dashboards, integrated with Gemini AI smart features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
